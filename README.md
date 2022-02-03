@@ -8,7 +8,7 @@ Open to contributions and fixing problems as several friends and family members 
 ## Pre-requisites
 * python3
 * pip (python3 -m 
-* Rental_Owner_Statement.csv file downloaded from Buildium as a "Rental Owner Statement Report Exported to Comma-Separated CSV"
+* Rental_Owner_Statement.csv file (This file can be exported from Buildium as a "Rental Owner Statement Report exported to Comma-Separated CSV").
 
 ## Installation
 
