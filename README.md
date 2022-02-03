@@ -6,9 +6,9 @@ The TLDR here is that `buildium_to_stessa.py` is a python file that takes a Rent
 Open to contributions and fixing problems as several friends and family members use this as well.
 
 ## Pre-requisites
-python3
-pip (python3 -m 
-Rental_Owner_Statement.csv file downloaded from Buildium as a "Rental Owner Statement Report Exported to Comma-Separated CSV"
+* python3
+* pip (python3 -m 
+* Rental_Owner_Statement.csv file downloaded from Buildium as a "Rental Owner Statement Report Exported to Comma-Separated CSV"
 
 ## Installation
 
