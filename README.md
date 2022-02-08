@@ -2,7 +2,7 @@
 There is no third-party integration between Buildium and Stessa to get transactions from Buildium into Stessa; see this [request](https://community.stessa.com/t/import-data-from-buildium/312/39). This repo allows you to transform Buildium transactions into something relatively easy to import into Stessa.
 
 # TLDR
-`buildium_to_stessa.py` takes a "Rental Owner Statement Report," `Rental_Owner_Statement.csv`, from Buildium. It outputs one file per property with all transactions for that property. The output file is ready to be manually uploaded into Stessa and can be tagged for a specific property upon upload. Having a separate output file for each property and using that tag on the upload feature makes it relatively painless to tag transactions to a particular rental. That way, you only have to categorize the transaction type.
+`buildium_to_stessa.py` takes a "Rental Owner Statement Report," `Rental_Owner_Statement.csv`, from Buildium. It outputs one file per property with all transactions for that property. The output file is ready to be manually uploaded into Stessa and can be tagged for a specific property upon upload. Having a separate output file for each property and using that tag on the upload feature means you don't need to change the property for each transaction later.
 
 Open to contributions and fixing problems as several friends and family members use this.
 
